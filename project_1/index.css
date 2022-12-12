@@ -1,0 +1,44 @@
+#xyz{
+    margin: 100px;
+    background-color: blue;
+}
+#pop{
+    margin: 50px;
+    background-color: rgb(49, 92, 129);
+    
+
+}
+.active{
+    background-color: greenyellow;
+}
+#abc{
+    background-color: blueviolet;
+}
+table{
+    
+    border: 4px solid black;
+    margin: 60px;;
+    border-color: aqua;
+    background-color: aquamarine;
+    
+   
+
+
+}
+td{
+
+    border: 4px solid black;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 50%;
+    text-align: center;
+    border-top: 20px;
+    border-color: #000;
+    margin-top: 10px;
+    background-color: red;
+    cursor: pointer;
+}
+
+td a:active{
+    color: red;
+}

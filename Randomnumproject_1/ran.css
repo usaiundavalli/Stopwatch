@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background: greenyellow;
+}
+h1{
+    color: brown;
+}
+input{
+    color: blue;
+    padding:  5 20px;
+    background-color: pink;
+}
